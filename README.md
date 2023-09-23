@@ -8,7 +8,7 @@ This is a custom pack for DayZCommunityOfflineMode that I created to make the ga
 
 - ```Custom character and weapons```
 
-- The pack includes a custom character with a starting inventory of clothes and weapons.
+ The pack includes a custom character with a starting inventory of clothes and weapons.
 
 - ```Disabled auto-run```
 
@@ -16,15 +16,15 @@ This is a custom pack for DayZCommunityOfflineMode that I created to make the ga
 
 - ```Disabled item spawn economy```
 
-- The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.
+ The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.
 
 - ```Code```
 
-- Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.
+ Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.
 
 - ```Unlimited Stamina```
 
-- For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.
+ For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.
 
 # Loot and infected spawn
 Since I turned off the spavn items and zombies on the map, the fps will be more. But maybe some people will want this setting back. To do this:
