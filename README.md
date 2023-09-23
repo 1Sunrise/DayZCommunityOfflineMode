@@ -6,21 +6,34 @@
 # DayZCommunityOfflineMode CUSTOM PACK by Sunrise
 This is a custom pack for DayZCommunityOfflineMode that I created to make the game more enjoyable.
 
-```Custom character and weapons```
+*```Custom character and weapons```
 
-The pack includes a custom character with a starting inventory of clothes and weapons.
+- The pack includes a custom character with a starting inventory of clothes and weapons.
 
-```Disabled auto-run```
-Auto-run on key "X" was disabled because it conflicted with the game's shooting mode toggle function. This made it difficult to switch between firing modes while running. This parameter can be restored if desired.
+*```Disabled auto-run```
 
-```Disabled item spawn economy```
-The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.
+- Auto-run on key "X" was disabled because it conflicted with the game's shooting mode toggle function. This made it difficult to switch between firing modes while running. This parameter can be restored if desired.
 
-```Code```
-Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.
+*```Disabled item spawn economy```
 
-```Unlimited Stamina```
-For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.
+- The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.
+
+*```Code```
+
+- Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.
+
+*```Unlimited Stamina```
+
+- For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.
+
+# Loot and infected spawn
+Since I turned off the spavn items and zombies on the map, the fps will be more. But maybe some people will want this setting back. To do this:
+* Go to the folder with the game
+* Find the ```Missions``` folder.
+* In the ```Missions``` folder go to the ```DayZCommunityOfflineMode.ChernarusPlus``` folder.
+* In the ```DayZCommunityOfflineMode.ChernarusPlus``` folder go to the ``core`` folder.
+* In the ```core``` folder go to the file called ```CommunityOfflineClient.c```.
+* Open this file with Notepad and see the parameter ```protected bool HIVE_ENABLED = false;```. Change it to ```protected bool HIVE_ENABLED = true;```. Save the changes. Play.
 
 # Installation
 Download [this](https://github.com/1Sunrise/DayZCommunityOfflineMode/releases/download/2.0/Missions.rar) rar archive.  
@@ -55,12 +68,3 @@ You might delete your whole ```Missions``` folder and validate your game files v
 * Middle Click to snap to ground (Might not be accurate)
 * Spawn in new items using the object spawner menu that can be found in the toolbar.
 * You can either enter values on the onject editor gui or hover above the value with your mouse and use the scroll wheel to in-/decrease them.
-
-# Loot and infected spawn
-Since I turned off the spavn items and zombies on the map, the fps will be more. But maybe some people will want this setting back. To do this:
-* Go to the folder with the game
-* Find the ```Missions``` folder.
-* In the ```Missions``` folder go to the ```DayZCommunityOfflineMode.ChernarusPlus``` folder.
-* In the ```DayZCommunityOfflineMode.ChernarusPlus``` folder go to the ``core`` folder.
-* In the ```core``` folder go to the file called ```CommunityOfflineClient.c```.
-* Open this file with Notepad and see the parameter ```protected bool HIVE_ENABLED = false;```. Change it to ```protected bool HIVE_ENABLED = true;```. Save the changes. Play.
