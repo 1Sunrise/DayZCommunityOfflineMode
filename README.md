@@ -4,27 +4,28 @@
 
 
 # DayZCommunityOfflineMode CUSTOM PACK by Sunrise
-This is a custom pack for DayZCommunityOfflineMode that I created to make the game more enjoyable.
 
-- ```Custom character and weapons```
+***This is a custom pack for DayZCommunityOfflineMode that I created to make the game more enjoyable.***
 
-The pack includes a custom character with a starting inventory of clothes and weapons.
+- ***Custom character and weapons***
 
-- ```Disabled auto-run```
+``The pack includes a custom character with a starting inventory of clothes and weapons.``
 
-Auto-run on key "X" was disabled because it conflicted with the game's shooting mode toggle function. This made it difficult to switch between firing modes while running. This parameter can be restored if desired.
+- ***Disabled auto-run***
 
-- ```Disabled item spawn economy```
+``Auto-run on key "X" was disabled because it conflicted with the game's shooting mode toggle function. This made it difficult to switch between firing modes while running. This parameter can be restored if desired.``
 
-The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.
+- ***Disabled item spawn economy***
 
-- ```Code```
+``The item spawn economy was disabled because it was taxing on the system and caused FPS drops. This makes the game run more smoothly.``
 
-Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.
+- ***Code***
 
-- ```Unlimited Stamina```
+``Slightly improved the code and appeared hints. That is, now you can create your own custom character and also weapons to him.``
 
-For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.
+- ***Unlimited Stamina***
+
+``For more convenience in the game I created a mod for infinite stamina. Now you can endlessly jump, run, climb over obstacles, hold your breath in the sight. Etc.``
 
 # Loot and infected spawn
 Since I turned off the spavn items and zombies on the map, the fps will be more. But maybe some people will want this setting back. To do this:
